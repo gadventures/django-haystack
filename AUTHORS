@@ -113,3 +113,4 @@ Thanks to
     * Gilad Beeri (@giladbeeri) for adding retries when updating a backend
     * Arjen Verstoep (@terr) for a patch that allows attribute lookups through Django ManyToManyField relationships
     * Tim Babych (@tymofij) for enabling backend-specific parameters in ``.highlight()``
+    * Andrei Fokau (andreif) for support of Solr's facet.range via ``SearchQuerySet.range_facet()``
